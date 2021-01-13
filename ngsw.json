@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1610570192873,
+  "timestamp": 1610570215471,
   "index": "https://jacobfrancin.github.io/sw-characters/index.html",
   "assetGroups": [
     {
@@ -17,7 +17,7 @@
         "https://jacobfrancin.github.io/sw-characters/manifest.webmanifest",
         "https://jacobfrancin.github.io/sw-characters/polyfills.8c151b8375e767ff858f.js",
         "https://jacobfrancin.github.io/sw-characters/runtime.0e49e2b53282f40c8925.js",
-        "https://jacobfrancin.github.io/sw-characters/styles.416ff67d32c86e0d524b.css"
+        "https://jacobfrancin.github.io/sw-characters/styles.a790c18afd68d977e6b3.css"
       ],
       "patterns": [
         "https:\\/\\/cdn\\.jsdelivr\\.net\\/npm\\/bootstrap@5\\.0\\.0-beta1\\/dist\\/css\\/bootstrap\\.min\\.css"
@@ -73,12 +73,12 @@
     "https://jacobfrancin.github.io/sw-characters/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://jacobfrancin.github.io/sw-characters/assets/img/logo.png": "dde0613ff5f1bdc430417584e3f467458d37567d",
     "https://jacobfrancin.github.io/sw-characters/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://jacobfrancin.github.io/sw-characters/index.html": "4ece4d13d1d7b27580fb4f81646d2af4156cad54",
+    "https://jacobfrancin.github.io/sw-characters/index.html": "aa1a4230cd2564f8450f075270e25654ddbae5d8",
     "https://jacobfrancin.github.io/sw-characters/main.de0ab0d9d7f956e2360b.js": "19c6b01886da691274e1434449408e7964e62af1",
     "https://jacobfrancin.github.io/sw-characters/manifest.webmanifest": "647db4fba4be264d65d1cbc9d3c6606d05610dcf",
     "https://jacobfrancin.github.io/sw-characters/polyfills.8c151b8375e767ff858f.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
     "https://jacobfrancin.github.io/sw-characters/runtime.0e49e2b53282f40c8925.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "https://jacobfrancin.github.io/sw-characters/styles.416ff67d32c86e0d524b.css": "7477852001bf4bd24ee126be5f561bdaf5c56efe"
+    "https://jacobfrancin.github.io/sw-characters/styles.a790c18afd68d977e6b3.css": "e699ac84e7cdea45fd7a25c2f39c34b000e5c03c"
   },
   "navigationUrls": [
     {
